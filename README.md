@@ -1,4 +1,5 @@
-# Code-Summarizer: Pre-trained Encoder-Decoder Models for Code Summarization
+# Code-Summarizer: 
+The aim of the project is to create a deep learning model to generate a natural language summary of source code in python i.e. it will describe the functionality of a python program. The dataset consists of python docstrings and code. We compared the performance of three models: a pre-trained RoBERTa model, a pre-trained CodeT5 model and our custom model. The models will be compared based on two performance metrics: BLEU score and EM score. 
 
 # Steps to follow to run Code Summarizer:
 
